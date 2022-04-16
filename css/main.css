@@ -1,0 +1,24 @@
+.chart
+{
+	position: absolute;
+	top: 30%;
+	left: 30%;
+	margin-top: -50px;
+	margin-left: -50px;
+	width: 700px;
+	height: 700px;
+}
+
+.play
+{
+    position: absolute;
+    top:452px;
+    left: 85px          
+}
+
+.pause
+{
+    position: absolute;
+    top:452px;
+    left: 250px;        
+}
